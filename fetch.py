@@ -1,7 +1,7 @@
 import pandas as pd
 from polygon import RESTClient
 import matplotlib.pyplot as plt
-api_key = "NVG4OpJneSeqTyijPRCbyokOsrL99Qdp"
+
 
 
 with RESTClient(api_key) as client:
